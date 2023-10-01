@@ -10,5 +10,5 @@
 
 花生壳（内网穿透）服务做远程桌面登录：https://service.oray.com/question/1824.html
 
-2023-9-2
-JaneMark-liuxinyu
+2023-10-1
+JaneMark
